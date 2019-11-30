@@ -126,7 +126,7 @@
  * @defgroup tools
  *
  * @mainpage
- * [Go to GitHub](https://github.com/reo7sp/tgbot-cpp)
+ * [Go to GitHub](https://github.com/nitanmarcel/tgbot-cpp)
  *
  * @section lib_compile Library compilation
  *
@@ -156,10 +156,10 @@
  * You can use Docker to build and run your bot. Set the base image of your's Dockerfile to [reo7sp/tgbot-cpp](https://hub.docker.com/r/reo7sp/tgbot-cpp/).
  *
  * @section Samples
- * All samples are located [here](https://github.com/reo7sp/tgbot-cpp/tree/master/samples)
+ * All samples are located [here](https://github.com/nitanmarcel/tgbot-cpp/tree/master/samples)
  *
  * @section Feedback
- * Feel free to [create new issues on GitHub](https://github.com/reo7sp/tgbot-cpp/issues) or [contact me on Telegram](https://t.me/reo7sp)
+ * Feel free to [create new issues on GitHub](https://github.com/nitanmarcel/tgbot-cpp/issues) or [contact me on Telegram](https://t.me/reo7sp)
  *
  * @section Licence
  * [The MIT License](http://opensource.org/licenses/MIT)
